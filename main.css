@@ -1,5 +1,4 @@
 * {
-	font-family: Arial;
 	background-color: yellow;
 }
 h1 {
@@ -8,4 +7,8 @@ h1 {
 p {
 	color: blue;
 	text-size: 14px;
+	font-style: italic;
+}
+p, h1 {
+	font-family: Arial;
 }
